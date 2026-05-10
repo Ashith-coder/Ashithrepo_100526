@@ -1,2 +1,4 @@
 Login code
 code for password reset
+Add user name
+add passwd
